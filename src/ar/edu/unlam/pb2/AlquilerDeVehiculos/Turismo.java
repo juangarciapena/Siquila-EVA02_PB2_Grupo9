@@ -8,6 +8,13 @@ public class Turismo extends Vehiculo implements Renting{
 		this.precioPorDia = 100.50;
 		this.precioPorKilometro = 20.20;
 	}
+	
+
+	// alquilar
+	// devolver
+	
+	
+	
 
 	@Override
 	protected String mostrarDetalles() {
