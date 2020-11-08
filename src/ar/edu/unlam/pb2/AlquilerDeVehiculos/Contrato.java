@@ -4,4 +4,7 @@ public class Contrato {
 	
 	//se muestran los datos del conductor, del cliente y del vehiculo en alquiler.
 
+	//asdasdasdasdasd
+	
+	
 }
